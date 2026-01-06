@@ -1,6 +1,1 @@
-# Recipie-making--website
-The website name called "CULINARY CANVAS" is a website bound to baking only.
-This is a website done using HTML, CSS, JS, PHP. There are multiple recipies which are divided into categories.
-Each catergory has a featuring page diplaying the recipies available. 
-Website contains a main page where there will be quite a lot of information about the website.
-There will be login page connect to backend, where all the signed up data is stored
+Culinary Canvas is a recipe-making website focused exclusively on baking, developed using HTML, CSS, JavaScript, and PHP. The project features a well-structured multi-page design with category-based navigation for breads, cakes, pies, and cookies, along with individual recipe pages that include detailed descriptions, ingredients, preparation steps, images, and embedded videos. It also includes featured category pages, a visually appealing UI with parallax effects, and a login system connected to a backend database for user authentication. This project demonstrates frontend–backend integration, clean UI design, and effective organization of a large-scale web application.
